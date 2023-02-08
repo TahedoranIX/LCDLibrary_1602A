@@ -1,4 +1,5 @@
 from setuptools import setup
+import RPi.GPIO
 
 setup(name='LCD_ST7066U',
       version='1.0.0',
