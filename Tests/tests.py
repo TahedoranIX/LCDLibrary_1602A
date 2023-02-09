@@ -1,5 +1,5 @@
 from time import sleep
-from LCD_ST7066U import lcd
+from src import lcd
 
 
 def test_something():
